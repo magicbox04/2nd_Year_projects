@@ -1,0 +1,108 @@
+Script started on 2023-10-05 14:12:43-04:00 [TERM="xterm-256color" TTY="/dev/pts/63" COLUMNS="80" LINES="24"]
+]0;slee2883@compute:~/courses/cs2211/Asn/asn2[?2004h[slee2883@compute asn2]$ ./s[K[K[Kdate
+[?2004lThu Oct  5 02:12:49 PM EDT 2023
+]0;slee2883@compute:~/courses/cs2211/Asn/asn2[?2004h[slee2883@compute asn2]$ a[Kwhoami
+[?2004lslee2883
+]0;slee2883@compute:~/courses/cs2211/Asn/asn2[?2004h[slee2883@compute asn2]$ pwd
+[?2004l/home/slee2883/courses/cs2211/Asn/asn2
+]0;slee2883@compute:~/courses/cs2211/Asn/asn2[?2004h[slee2883@compute asn2]$ ./[7mconverter[27mconverter
+[?2004l1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilometer and Mile
+4 for conversion between Gallon and Liter
+0 for quit
+1
+C for conversion from Celsius to Fahrenheit and F for conversion from Fahrenheit to Celsius
+c
+enter the value
+1
+33.799999
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilometer and Mile
+4 for conversion between Gallon and Liter
+0 for quit
+1
+C for conversion from Celsius to Fahrenheit and F for conversion from Fahrenheit to Celsius
+f
+enter the value
+1
+-17.222221
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilometer and Mile
+4 for conversion between Gallon and Liter
+0 for quit
+2
+C for conversion from Centimetre to Inch and I for conversion from Inch to Centimetre
+c
+enter the value
+1
+0.393701
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilometer and Mile
+4 for conversion between Gallon and Liter
+0 for quit
+3 2
+C for conversion from Centimetre to Inch and I for conversion from Inch to Centimetre
+i
+enter the value
+1
+2.540000
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilometer and Mile
+4 for conversion between Gallon and Liter
+0 for quit
+3
+K for conversion from Kilometer to Mile and M for conversion from Mile to Kilometer
+k
+enter the value
+1
+0.621371
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilometer and Mile
+4 for conversion between Gallon and Liter
+0 for quit
+3
+K for conversion from Kilometer to Mile and M for conversion from Mile to Kilometer
+m
+enter the value
+1
+1.609344
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilometer and Mile
+4 for conversion between Gallon and Liter
+0 for quit
+4
+G for conversion from Gallon to Liter and L for conversion from Liter to gallon
+g
+enter the value
+1
+3.785410
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilometer and Mile
+4 for conversion between Gallon and Liter
+0 for quit
+4
+G for conversion from Gallon to Liter and L for conversion from Liter to gallon
+l
+enter the value
+1
+0.264172
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilometer and Mile
+4 for conversion between Gallon and Liter
+0 for quit
+0
+]0;slee2883@compute:~/courses/cs2211/Asn/asn2[?2004h[slee2883@compute asn2]$ quit
+[?2004lbash: quit: command not found
+]0;slee2883@compute:~/courses/cs2211/Asn/asn2[?2004h[slee2883@compute asn2]$ exit
+[?2004lexit
+
+Script done on 2023-10-05 14:18:19-04:00 [COMMAND_EXIT_CODE="127"]

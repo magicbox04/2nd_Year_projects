@@ -1,0 +1,32 @@
+CS2211 2023
+Assignment 1
+Sangjae Lee
+251276506
+SLEE2883
+Sep 21 2023
+
+1a. A software that manages the computer’s hardware and provides a convenient and safe environment for running programs. It acts as an interface between programs and the hardware resources that these programs access. It is loaded into memory when a computer is booted and remains active as long as the machine is up. 
+
+1b. the core of an operating system. It manages the processes and resources and controls and hides the hardware 
+
+1c. an environment or a special program. It is an interface between users and the kernel. It is also called a command line interpreter
+
+2a. mkdir
+
+2b. vi
+
+3a. 
+tf1  tf2
+
+df1:
+df1
+
+df2:
+tf1
+
+3b. ls -l
+
+3c. ls -dl or ls -ld
+
+3d. There is no difference since ls. is targeting the current directory and ls is defaulted to target the current directory if no extra command is given. At the end, they are all using the same directory, the current one
+ 

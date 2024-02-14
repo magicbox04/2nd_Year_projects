@@ -1,0 +1,34 @@
+Script started on 2023-09-18 19:09:56-04:00 [TERM="xterm-256color" TTY="/dev/pts/30" COLUMNS="80" LINES="24"]
+]0;slee2883@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[slee2883@compute q2q3]$ date
+[?2004lMon Sep 18 07:09:58 PM EDT 2023
+]0;slee2883@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[slee2883@compute q2q3]$ whoami
+[?2004lslee2883
+]0;slee2883@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[slee2883@compute q2q3]$ pwd
+[?2004l/home/slee2883/courses/cs2211/Asn/asn1/q2q3
+]0;slee2883@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[slee2883@compute q2q3]$ /usr//[Kbin/ls df2 df1 tf2 tf1
+[?2004ltf1  tf2
+
+df1:
+df1
+
+df2:
+tf1
+]0;slee2883@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[slee2883@compute q2q3]$ .u[K[K/usr/bin/ls -l
+[?2004ltotal 3
+-rw-r--r-- 1 slee2883 slee2883 0 Sep 18 19:09 asn1_q3.script
+drwxr-xr-x 2 slee2883 slee2883 3 Sep 18 18:24 df1
+drwxr-xr-x 3 slee2883 slee2883 3 Sep 18 18:25 df2
+-rw-r--r-- 1 slee2883 slee2883 0 Sep 18 18:24 tf1
+-rw-r--r-- 1 slee2883 slee2883 0 Sep 18 18:24 tf2
+]0;slee2883@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[slee2883@compute q2q3]$ /usr/bin/ls -dl
+[?2004ldrwxr-xr-x 4 slee2883 slee2883 7 Sep 18 19:09 .
+]0;slee2883@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[slee2883@compute q2q3]$ /usr/bin [K/ [Kls -ld
+[?2004ldrwxr-xr-x 4 slee2883 slee2883 7 Sep 18 19:09 .
+]0;slee2883@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[slee2883@compute q2q3]$ /usr/bin/ls
+[?2004lasn1_q3.script	df1  df2  tf1  tf2
+]0;slee2883@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[slee2883@compute q2q3]$ /usr/bin/ls .
+[?2004lasn1_q3.script	df1  df2  tf1  tf2
+]0;slee2883@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[slee2883@compute q2q3]$ exit
+[?2004lexit
+
+Script done on 2023-09-18 19:11:32-04:00 [COMMAND_EXIT_CODE="0"]

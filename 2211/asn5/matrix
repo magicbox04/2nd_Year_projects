@@ -1,0 +1,63 @@
+Script started on 2023-11-30 14:05:51-05:00 [TERM="xterm-256color" TTY="/dev/pts/21" COLUMNS="80" LINES="24"]
+]0;slee2883@compute:~/courses/cs2211/Asn/asn5[?2004h[slee2883@compute asn5]$ date
+[?2004lThu Nov 30 02:05:54 PM EST 2023
+]0;slee2883@compute:~/courses/cs2211/Asn/asn5[?2004h[slee2883@compute asn5]$ whoami
+[?2004lslee2883
+]0;slee2883@compute:~/courses/cs2211/Asn/asn5[?2004h[slee2883@compute asn5]$ pwd
+[?2004l/home/slee2883/courses/cs2211/Asn/asn5
+]0;slee2883@compute:~/courses/cs2211/Asn/asn5[?2004h[slee2883@compute asn5]$ make
+[?2004lcc -c main.c
+cc -c datatype.c
+cc -c bstree.c
+cc -c matrix.c
+cc -o mymatrix main.o datatype.o bstree.o matrix.o
+]0;slee2883@compute:~/courses/cs2211/Asn/asn5[?2004h[slee2883@compute asn5]$ ./ma[Kymatrix<input[K[K[K[K[K[K<sma[K[Kample_inop[K[Kput.txt
+[?2004lNumber        Street          Occurrence
+100      1st Street                1
+  8      3 Valleys Place           1
+ 74      3rd Street                1
+  4      4 Oaks Crescent           1
+ 10      Abbott Street             1
+204      Beech Drive               1
+ 36      Beechbank Crescent        1
+ 36      Beechmount Crescent       1
+ 46      Oxford Street             1
+ 70      Oxford Street             3
+101      Western Road              2
+]0;slee2883@compute:~/courses/cs2211/Asn/asn5[?2004h[slee2883@compute asn5]$ ./mymatrix<sample_input.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+[?2004l70 Oxford Street
+8 3 Valleys Place
+101 Western Road
+74 3rd Street
+4 4 Oaks Crescent
+10 Abbott Street
+70 Oxford Street
+100 1st Street
+204 Beech Drive
+10 Abbott Street
+36 Beechbank Crescent
+36 Beechmount Crescent
+70 Oxford Street
+46 Oxford Street
+101 Western Road
+Number        Street          Occurrence
+100      1st Street                1
+  8      3 Valleys Place           1
+ 74      3rd Street                1
+  4      4 Oaks Crescent           1
+ 10      Abbott Street             2
+204      Beech Drive               1
+ 36      Beechbank Crescent        1
+ 36      Beechmount Crescent       1
+ 46      Oxford Street             1
+ 70      Oxford Street             3
+101      Western Road              2
+]0;slee2883@compute:~/courses/cs2211/Asn/asn5[?2004h[slee2883@compute asn5]$ clean [K[K[K[K[K[Kmake clean
+[?2004lrm -f mymatrix *.o core
+]0;slee2883@compute:~/courses/cs2211/Asn/asn5[?2004h[slee2883@compute asn5]$ ls
+[?2004lbstree.c  datatype.c  main.c    matrix    matrix.h
+bstree.h  datatype.h  makefile  matrix.c  sample_input.txt
+]0;slee2883@compute:~/courses/cs2211/Asn/asn5[?2004h[slee2883@compute asn5]$ exit
+[?2004lexit
+
+Script done on 2023-11-30 14:07:00-05:00 [COMMAND_EXIT_CODE="0"]

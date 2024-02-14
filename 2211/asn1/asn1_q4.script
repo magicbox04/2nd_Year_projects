@@ -1,0 +1,13 @@
+Script started on 2023-09-18 19:14:49-04:00 [TERM="xterm-256color" TTY="/dev/pts/30" COLUMNS="80" LINES="24"]
+]0;slee2883@compute:~/courses/cs2211/Asn/asn1[?2004h[slee2883@compute asn1]$ date
+[?2004lMon Sep 18 07:14:53 PM EDT 2023
+]0;slee2883@compute:~/courses/cs2211/Asn/asn1[?2004h[slee2883@compute asn1]$ whoma[K[Km[Kami
+[?2004lslee2883
+]0;slee2883@compute:~/courses/cs2211/Asn/asn1[?2004h[slee2883@compute asn1]$ pwd
+[?2004l/home/slee2883/courses/cs2211/Asn/asn1
+]0;slee2883@compute:~/courses/cs2211/Asn/asn1[?2004h[slee2883@compute asn1]$ ./asn1
+[?2004lHello, CS2211 2023!
+]0;slee2883@compute:~/courses/cs2211/Asn/asn1[?2004h[slee2883@compute asn1]$ exit
+[?2004lexit
+
+Script done on 2023-09-18 19:15:25-04:00 [COMMAND_EXIT_CODE="0"]
